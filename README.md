@@ -1,0 +1,1 @@
+Trabajo practico en Python sobre un modelo hipotetico de gestor de productos. En el diagrama DER se puede observar en los contenidos de atributos aquellos que estaran presente en proximas versiones del codigo, perteneciendo aun al modelo MVP. ID objetos, y datos de email se incorporaran.
